@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "email": "superadmin@admin.com",
+    "password": "admin123",
+    "role": "admin",
+    "isApproved": true,
+    "interest": null,
+    "isFirstLogin": false
+  },
+  {
+    "id": 2,
+    "email": "emime5328@gmail.com",
+    "password": "emine5329",
+    "role": "user",
+    "isApproved": true,
+    "interest": "Outdoor",
+    "isFirstLogin": false
+  },
+  {
+    "id": 3,
+    "email": "emime5328@hotmail.com",
+    "password": "emine532953",
+    "role": "user",
+    "isApproved": true,
+    "interest": "Müzik",
+    "isFirstLogin": false
+  },
+  {
+    "id": 4,
+    "email": "emineirem.karaca23@ogr.atauni.edu.tr",
+    "password": "emine5329",
+    "role": "user",
+    "isApproved": true,
+    "interest": "Müzik",
+    "isFirstLogin": true
+  },
+  {
+    "id": 5,
+    "email": "bedrikurtoglu3@gmail.com",
+    "password": "emine532953",
+    "role": "user",
+    "isApproved": true,
+    "interest": "Müzik",
+    "isFirstLogin": false
+  },
+  {
+    "id": 6,
+    "email": "senanursari1987@gmail.com",
+    "password": "emine532953",
+    "role": "user",
+    "isApproved": true,
+    "interest": "Outdoor",
+    "isFirstLogin": false
+  },
+  {
+    "id": 7,
+    "email": "erdem123@gmail.com",
+    "password": "erdem1234",
+    "role": "user",
+    "isApproved": true,
+    "interest": "Müzik",
+    "isFirstLogin": false
+  },
+  {
+    "id": 8,
+    "email": "elif123@gmail.com",
+    "password": "elif123",
+    "role": "user",
+    "isApproved": true,
+    "interest": "Müzik",
+    "isFirstLogin": false
+  },
+  {
+    "id": 9,
+    "email": "emime53528@gmail.com",
+    "password": "12345678",
+    "role": "user",
+    "isApproved": true,
+    "interest": "Müzik",
+    "isFirstLogin": false
+  }
+]
